@@ -1,0 +1,1 @@
+GET http://api.airvisual.com/v2/countries?key=#{Rails.application.credentials.third_party_api[:api_key]}
